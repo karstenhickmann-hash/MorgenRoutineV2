@@ -1,0 +1,4 @@
+Morgenroutine V2
+Hauptverzeichnis: index.html, fetch_data.py, current.json
+Workflow-Pfad: .github/workflows/update-data.yml
+GitHub Actions kann manuell mit 'Run workflow' gestartet werden.
